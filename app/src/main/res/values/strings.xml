@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="look_for">Look for?</string>
+    <string name="search">Search</string>
+</resources>
